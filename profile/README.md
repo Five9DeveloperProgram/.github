@@ -1,6 +1,6 @@
 # DISCLAIMER
 
-These repository contain sample code which is **not an official Five9 resource**. It is intended solely for educational and illustrative purposes to demonstrate possible ways to interact with Five9 APIs.
+These repositories contain sample code which is **not an official Five9 resource**. They are intended solely for educational and illustrative purposes to demonstrate possible ways to interact with Five9 APIs.
 
 Under the MIT License:
 
